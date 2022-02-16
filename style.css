@@ -8,13 +8,14 @@ table{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.result{
+#result{
     text-align: right;
 }
 
 th, td{
     border: solid;
     border-width: 0.15em;
-    width: 15em;
-    height: 5em;
+    width: 15rem;
+    height: 5rem;
+    padding: 0px;
 }
