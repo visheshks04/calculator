@@ -8,14 +8,27 @@ table{
     font-family: 'Courier New', Courier, monospace;
 }
 
-#result{
-    text-align: right;
-}
-
-th, td{
-    border: solid;
-    border-width: 0.15em;
+td{
     width: 15rem;
     height: 5rem;
     padding: 0px;
+}
+
+
+#result{
+    text-align: right;
+    width: 100%;
+    border: solid;
+    line-height: 220%;
+    border-width: 10%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+button{
+    padding: 2.3em 10em;
+}
+
+.colspan{
+    padding: 2.3em 20.5em;
 }
