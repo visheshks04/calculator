@@ -14,7 +14,6 @@ td{
     padding: 0px;
 }
 
-
 #result{
     text-align: right;
     width: 100%;
@@ -31,4 +30,8 @@ button{
 
 .colspan{
     padding: 2.3em 20.5em;
+}
+
+.back{
+    padding: 2.3em 7.7em;
 }
